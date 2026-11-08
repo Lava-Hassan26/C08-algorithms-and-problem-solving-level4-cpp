@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="P01-NumberToText.vcxproj" Id="1df72791-5052-4e0e-b151-9a9f5ddea214" />
+</Solution>
