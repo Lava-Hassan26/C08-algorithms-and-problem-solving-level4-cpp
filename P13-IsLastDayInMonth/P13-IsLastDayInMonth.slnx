@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="P13-IsLastDayInMonth.vcxproj" Id="c7c1b59a-8706-497f-b5fe-26a32266bdbc" />
+</Solution>
