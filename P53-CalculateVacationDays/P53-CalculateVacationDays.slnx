@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="P53-CalculateVacationDays.vcxproj" Id="dc39b72d-ca7c-4634-ab4b-66b65eeaf980" />
+</Solution>
